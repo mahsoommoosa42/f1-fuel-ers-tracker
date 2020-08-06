@@ -1,0 +1,16 @@
+{
+  "name": "f1-fuel-ers-tracker",
+  "version": "0.0.1",
+  "description": "Track per lap fuel and ERS consumption",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "notsomahsoom",
+  "license": "ISC",
+  "dependencies": {
+    "f1-2020-client": "^0.1.6",
+    "json2js": "0.0.4",
+    "r2": "^2.0.1"
+  }
+}
